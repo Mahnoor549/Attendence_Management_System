@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Add Student</title>
+     <link rel="stylesheet" href="~/css/add.css" />
+</head>
+<body>
+    <div class="d-flex flex-column justify-content-center align-items-center min-vh-100">
+    <form  asp-controller="Faculty" asp-action="Add" method="post">
+    <h3>Enter Faculty Detail</h3>
+    <div class="form-floating mb-3 mt-3">
+    <input type="text" class="form-control" id="name" placeholder=" " name="name" />
+    <label for="name">Name</label>
+    </div>
+    <div class="form-floating mb-3 mt-3">
+    <input type="email" class="form-control" id="email" placeholder=" " name="email"/>
+    <label for="email">Email</label>
+</div>
+    <div class="form-floating mb-3 mt-3">
+     <input type="text" class="form-control" id="CNIC"  placeholder=" " name="CNIC"/>
+    <label for="CNIC">CNIC</label>
+</div>
+ <div class="form-floating mb-3 mt-3">
+    <input type="decimal" class="form-control" id="salary" placeholder=" " name="salary" />
+    <label for="salary">Salary</label>
+    </div>
+     <div class="form-floating mb-3 mt-3">
+    <input type="decimal" class="form-control" id="tax" placeholder=" " name="tax" />
+    <label for="tax">Tax</label>
+    </div>
+    <button class="btn btn-primary" type="Submit">Add</button>
+     @if(ViewBag!=null){
+        <p style="color:red">@ViewBag.Message</p>
+        }
+    </form>
+    </div>
+</body>
+</html>
+

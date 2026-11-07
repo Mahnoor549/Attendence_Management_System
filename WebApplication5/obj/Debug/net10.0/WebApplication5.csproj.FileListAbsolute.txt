@@ -1,0 +1,10 @@
+/Users/mahnoornadeem/WebApplication5/WebApplication5/obj/Debug/net10.0/WebApplication5.csproj.AssemblyReference.cache
+/Users/mahnoornadeem/WebApplication5/WebApplication5/obj/Debug/net10.0/rpswa.dswa.cache.json
+/Users/mahnoornadeem/WebApplication5/WebApplication5/obj/Debug/net10.0/WebApplication5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mahnoornadeem/WebApplication5/WebApplication5/obj/Debug/net10.0/WebApplication5.AssemblyInfoInputs.cache
+/Users/mahnoornadeem/WebApplication5/WebApplication5/obj/Debug/net10.0/WebApplication5.AssemblyInfo.cs
+/Users/mahnoornadeem/WebApplication5/WebApplication5/obj/Debug/net10.0/WebApplication5.csproj.CoreCompileInputs.cache
+/Users/mahnoornadeem/WebApplication5/WebApplication5/obj/Debug/net10.0/WebApplication5.MvcApplicationPartsAssemblyInfo.cs
+/Users/mahnoornadeem/WebApplication5/WebApplication5/obj/Debug/net10.0/WebApplication5.MvcApplicationPartsAssemblyInfo.cache
+/Users/mahnoornadeem/WebApplication5/WebApplication5/obj/Debug/net10.0/WebApplication5.RazorAssemblyInfo.cache
+/Users/mahnoornadeem/WebApplication5/WebApplication5/obj/Debug/net10.0/WebApplication5.RazorAssemblyInfo.cs

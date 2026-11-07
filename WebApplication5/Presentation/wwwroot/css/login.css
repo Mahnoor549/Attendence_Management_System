@@ -1,0 +1,23 @@
+
+body{
+    background-color: rgb(225, 224, 224);
+ }
+.box{
+    border:2px solid rgb(229, 227, 227);
+    border-radius:10px;
+    box-shadow: beige;
+    width:400px;
+    height:350px;
+    padding: 30px;
+    justify-content: center;
+    align-items: center;
+}
+h3{
+    text-align: center;
+}
+.flex{
+    justify-content: center;
+    align-items: center;
+    height:100vh;
+    display:flex;
+}

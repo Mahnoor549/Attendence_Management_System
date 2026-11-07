@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="~/css/display.css"/>
+</head>
+<body>
+    <h3 class="p-5">Attendence Page</h3>
+    <form class="p-5" asp-controller="Attendence" asp-action="SaveAttendence">
+    <div class="form-floating mb-3 mt-3">
+    <input type="datetime-local" class="form-control" id="Test_DatetimeLocal" placeholder=" " name="date" />
+   <label for="date">Date</label>
+    </div>
+    <table class="table table-bordered table-hover p-5">
+        <thead class="table-dark text-white">
+        <tr>
+            <th>StdId</th>
+            <th>StdName</th>
+            <th>Attendence</th>
+        </tr>
+        </thead>
+        <tbody>
+        @for(int i=0;i<Model.Count;i++){
+<tr>
+    <td><input type="hidden" id="StdId" name="[@i].Id" value="@Model[i].Id"/>@Model[i].Id</td>
+    <td><input type="hidden" id="Name" name="[@i].Name" value="@Model[i].Name"/>@Model[i].Name</td>
+   <td>
+    <select name="[@i].Status" id="Status">
+        <option value="Present">Present</option>
+        <option value="Absent">Absent</option>
+        <option value="Late">Late</option>
+        </select>
+   </td>
+</tr> 
+}
+</tbody>
+    </table>
+    <br /><br />
+    <button class="btn btn-primary" type="Submit">Save</button>
+    </form>
+</body>
+</html>

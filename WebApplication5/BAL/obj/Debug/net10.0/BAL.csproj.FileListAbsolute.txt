@@ -1,0 +1,15 @@
+/Users/mahnoornadeem/WebApplication5/WebApplication5/BAL/bin/Debug/net10.0/BAL.deps.json
+/Users/mahnoornadeem/WebApplication5/WebApplication5/BAL/bin/Debug/net10.0/BAL.dll
+/Users/mahnoornadeem/WebApplication5/WebApplication5/BAL/bin/Debug/net10.0/BAL.pdb
+/Users/mahnoornadeem/WebApplication5/WebApplication5/BAL/bin/Debug/net10.0/DAL.dll
+/Users/mahnoornadeem/WebApplication5/WebApplication5/BAL/bin/Debug/net10.0/DAL.pdb
+/Users/mahnoornadeem/WebApplication5/WebApplication5/BAL/obj/Debug/net10.0/BAL.csproj.AssemblyReference.cache
+/Users/mahnoornadeem/WebApplication5/WebApplication5/BAL/obj/Debug/net10.0/BAL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mahnoornadeem/WebApplication5/WebApplication5/BAL/obj/Debug/net10.0/BAL.AssemblyInfoInputs.cache
+/Users/mahnoornadeem/WebApplication5/WebApplication5/BAL/obj/Debug/net10.0/BAL.AssemblyInfo.cs
+/Users/mahnoornadeem/WebApplication5/WebApplication5/BAL/obj/Debug/net10.0/BAL.csproj.CoreCompileInputs.cache
+/Users/mahnoornadeem/WebApplication5/WebApplication5/BAL/obj/Debug/net10.0/BAL.csproj.Up2Date
+/Users/mahnoornadeem/WebApplication5/WebApplication5/BAL/obj/Debug/net10.0/BAL.dll
+/Users/mahnoornadeem/WebApplication5/WebApplication5/BAL/obj/Debug/net10.0/refint/BAL.dll
+/Users/mahnoornadeem/WebApplication5/WebApplication5/BAL/obj/Debug/net10.0/BAL.pdb
+/Users/mahnoornadeem/WebApplication5/WebApplication5/BAL/obj/Debug/net10.0/ref/BAL.dll

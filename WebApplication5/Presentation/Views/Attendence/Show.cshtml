@@ -1,0 +1,40 @@
+@{
+    var list = ViewBag.list as List<DAL.Models.TeacherClass>;
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Add Student</title>
+     <link rel="stylesheet" href="~/css/add.css" />
+</head>
+<body>
+     <div class="d-flex flex-column justify-content-center align-items-center min-vh-100">
+    <form asp-controller="Attendence" asp-action="Show1" >
+    <h3>Enter Attendence Detail</h3>
+<select name="classid" class="form-control"> 
+        <option value=""> Select Class</option> 
+        @foreach (var item in list) { 
+            <option value="@item.Id">@item.Name</option> 
+        } 
+    </select>
+    <div class="form-floating mb-3 mt-3">
+    <input type="datetime-local" class="form-control" id="Test_DatetimeLocal" placeholder=" " name="date" />
+   <label for="date">Date</label>
+    </div>
+    <button class="btn btn-primary" type="Submit">Show</button>
+    </form>
+     </div>
+</body>
+</html>
+</body>
+</html>

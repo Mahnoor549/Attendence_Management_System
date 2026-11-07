@@ -1,0 +1,18 @@
+info : X.509 certificate chain validation will use the fallback certificate bundle at '/usr/local/share/dotnet/sdk/10.0.301/trustedroots/codesignctl.pem'.
+info : X.509 certificate chain validation will use the fallback certificate bundle at '/usr/local/share/dotnet/sdk/10.0.301/trustedroots/timestampctl.pem'.
+info : Adding PackageReference for package 'Microsoft.AspNetCore' into project '/Users/mahnoornadeem/WebApplication5/WebApplication5/WebApplication5.csproj'.
+info :   GET https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnetcore/index.json
+info :   OK https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnetcore/index.json 717ms
+warn : NU1510: PackageReference Microsoft.AspNetCore will not be pruned. Consider removing this package from your dependencies, as it is likely unnecessary.
+info : Restoring packages for /Users/mahnoornadeem/WebApplication5/WebApplication5/WebApplication5.csproj...
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore/index.json
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore/index.json 593ms
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore/2.3.11/microsoft.aspnetcore.2.3.11.nupkg
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore/2.3.11/microsoft.aspnetcore.2.3.11.nupkg 535ms
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.server.kestrel.https/index.json
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.server.kestrel.https/index.json 567ms
+info :   GET https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.server.kestrel.https/2.3.10/microsoft.aspnetcore.server.kestrel.https.2.3.10.nupkg
+info :   OK https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.server.kestrel.https/2.3.10/microsoft.aspnetcore.server.kestrel.https.2.3.10.nupkg 463ms
+info : Installed Microsoft.AspNetCore.Server.Kestrel.Https 2.3.10 from https://api.nuget.org/v3/index.json to /Users/mahnoornadeem/.nuget/packages/microsoft.aspnetcore.server.kestrel.https/2.3.10 with content hash J0/UCwwmdTR8AJ+mndc5cBvyAwwCvjcq7fDTIDRSj72nJ+u+cUgZUtiLnRHze9QB8WCJwf+/6MS6uzg1QbgeZA==.
+info : Installed Microsoft.AspNetCore 2.3.11 from https://api.nuget.org/v3/index.json to /Users/mahnoornadeem/.nuget/packages/microsoft.aspnetcore/2.3.11 with content hash UU7WByUrvzzW+/9FGuSa7EpfbMCFKWd7WlMXT4QDgTbml4EpRXV/PN/Hd9YWsCSeWULp3UbyQm7M/6zR5X+Sug==.
+info :   GET https://api.nuget.org/v3/vulnerabilities/index.json

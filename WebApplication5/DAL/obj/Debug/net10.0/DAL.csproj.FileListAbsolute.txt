@@ -1,0 +1,14 @@
+/Users/mahnoornadeem/WebApplication5/WebApplication5/DAL/bin/Debug/net10.0/DAL.deps.json
+/Users/mahnoornadeem/WebApplication5/WebApplication5/DAL/bin/Debug/net10.0/DAL.dll
+/Users/mahnoornadeem/WebApplication5/WebApplication5/DAL/bin/Debug/net10.0/DAL.pdb
+/Users/mahnoornadeem/WebApplication5/WebApplication5/DAL/obj/Debug/net10.0/DAL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mahnoornadeem/WebApplication5/WebApplication5/DAL/obj/Debug/net10.0/DAL.AssemblyInfoInputs.cache
+/Users/mahnoornadeem/WebApplication5/WebApplication5/DAL/obj/Debug/net10.0/DAL.AssemblyInfo.cs
+/Users/mahnoornadeem/WebApplication5/WebApplication5/DAL/obj/Debug/net10.0/DAL.csproj.CoreCompileInputs.cache
+/Users/mahnoornadeem/WebApplication5/WebApplication5/DAL/obj/Debug/net10.0/DAL.dll
+/Users/mahnoornadeem/WebApplication5/WebApplication5/DAL/obj/Debug/net10.0/refint/DAL.dll
+/Users/mahnoornadeem/WebApplication5/WebApplication5/DAL/obj/Debug/net10.0/DAL.pdb
+/Users/mahnoornadeem/WebApplication5/WebApplication5/DAL/obj/Debug/net10.0/ref/DAL.dll
+/Users/mahnoornadeem/WebApplication5/WebApplication5/DAL/bin/Debug/net10.0/DAL.runtimeconfig.json
+/Users/mahnoornadeem/WebApplication5/WebApplication5/DAL/obj/Debug/net10.0/DAL.genruntimeconfig.cache
+/Users/mahnoornadeem/WebApplication5/WebApplication5/DAL/obj/Debug/net10.0/DAL.csproj.AssemblyReference.cache

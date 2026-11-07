@@ -1,0 +1,108 @@
+is_global = true
+build_property.TargetFramework = net10.0
+build_property.TargetFrameworkIdentifier = .NETCoreApp
+build_property.TargetFrameworkVersion = v10.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EntryPointFilePath = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WebApplication5
+build_property.RootNamespace = WebApplication5
+build_property.ProjectDir = /Users/mahnoornadeem/WebApplication5/WebApplication5/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 10.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/mahnoornadeem/WebApplication5/WebApplication5
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 10.0
+build_property.EnableCodeStyleSeverity = 
+
+[/Users/mahnoornadeem/WebApplication5/WebApplication5/Presentation/Views/Attendence/Show.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudGF0aW9uL1ZpZXdzL0F0dGVuZGVuY2UvU2hvdy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mahnoornadeem/WebApplication5/WebApplication5/Presentation/Views/Attendence/Show1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudGF0aW9uL1ZpZXdzL0F0dGVuZGVuY2UvU2hvdzEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mahnoornadeem/WebApplication5/WebApplication5/Presentation/Views/Attendence/ShowStudents.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudGF0aW9uL1ZpZXdzL0F0dGVuZGVuY2UvU2hvd1N0dWRlbnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mahnoornadeem/WebApplication5/WebApplication5/Presentation/Views/Attendence/ShowStudents1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudGF0aW9uL1ZpZXdzL0F0dGVuZGVuY2UvU2hvd1N0dWRlbnRzMS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mahnoornadeem/WebApplication5/WebApplication5/Presentation/Views/Class/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudGF0aW9uL1ZpZXdzL0NsYXNzL0FkZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mahnoornadeem/WebApplication5/WebApplication5/Presentation/Views/Class/ViewClass.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudGF0aW9uL1ZpZXdzL0NsYXNzL1ZpZXdDbGFzcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mahnoornadeem/WebApplication5/WebApplication5/Presentation/Views/Dashboard/Admin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudGF0aW9uL1ZpZXdzL0Rhc2hib2FyZC9BZG1pbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mahnoornadeem/WebApplication5/WebApplication5/Presentation/Views/Dashboard/Faculty.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudGF0aW9uL1ZpZXdzL0Rhc2hib2FyZC9GYWN1bHR5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mahnoornadeem/WebApplication5/WebApplication5/Presentation/Views/Faculty/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudGF0aW9uL1ZpZXdzL0ZhY3VsdHkvQWRkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mahnoornadeem/WebApplication5/WebApplication5/Presentation/Views/Faculty/ViewFaculty.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudGF0aW9uL1ZpZXdzL0ZhY3VsdHkvVmlld0ZhY3VsdHkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mahnoornadeem/WebApplication5/WebApplication5/Presentation/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudGF0aW9uL1ZpZXdzL0hvbWUvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mahnoornadeem/WebApplication5/WebApplication5/Presentation/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudGF0aW9uL1ZpZXdzL0hvbWUvUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mahnoornadeem/WebApplication5/WebApplication5/Presentation/Views/Login/Admin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudGF0aW9uL1ZpZXdzL0xvZ2luL0FkbWluLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mahnoornadeem/WebApplication5/WebApplication5/Presentation/Views/Login/Faculty.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudGF0aW9uL1ZpZXdzL0xvZ2luL0ZhY3VsdHkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mahnoornadeem/WebApplication5/WebApplication5/Presentation/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudGF0aW9uL1ZpZXdzL1NoYXJlZC9FcnJvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mahnoornadeem/WebApplication5/WebApplication5/Presentation/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudGF0aW9uL1ZpZXdzL1NoYXJlZC9fVmFsaWRhdGlvblNjcmlwdHNQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mahnoornadeem/WebApplication5/WebApplication5/Presentation/Views/Student/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudGF0aW9uL1ZpZXdzL1N0dWRlbnQvQWRkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mahnoornadeem/WebApplication5/WebApplication5/Presentation/Views/Student/ViewStudents.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudGF0aW9uL1ZpZXdzL1N0dWRlbnQvVmlld1N0dWRlbnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mahnoornadeem/WebApplication5/WebApplication5/Presentation/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudGF0aW9uL1ZpZXdzL19WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mahnoornadeem/WebApplication5/WebApplication5/Presentation/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudGF0aW9uL1ZpZXdzL19WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mahnoornadeem/WebApplication5/WebApplication5/Presentation/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudGF0aW9uL1ZpZXdzL1NoYXJlZC9fTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-x67i12czr6

@@ -1,0 +1,54 @@
+@using System.Diagnostics.Eventing.Reader
+@using DAL.Models
+@using Microsoft.AspNetCore.Components.Forms
+@{
+    List<Student>? list = ViewBag.list;
+    List<TeacherClass> list1=ViewBag.list1;
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="~/css/display.css"/>
+</head>
+<body>
+    <h3 class="p-5">Student Data</h3>
+     <form asp-controller="Student" asp-action="ViewStudents" method="post" class="p-5">
+            <select name="classid" class="form-control"> 
+        <option value=""> Select Class</option> 
+        @foreach (TeacherClass item in list1) { 
+            <option value="@item.Id">@item.Name</option> 
+        } 
+    </select>
+    <br />
+    <button class="btn btn-primary">View</button>
+        </form>
+    <div class="p-5">
+    <table class="table table-bordered table-hover">
+        <thead class="table-dark text-white">
+        <tr>
+            <th>StdID</th>
+            <th>Name</th>
+            <th>Email</th>
+            <th>CNIC</th>
+            <th>ClassId</th>
+        </tr>
+        </thead>
+        <tbody>
+        @foreach(Student s in list){
+<tr>
+    <td>@s.Id</td>
+    <td>@s.Name</td>
+    <td>@s.Email</td>
+    <td>@s.Cnic</td>
+    <td>@s.ClassId</td>
+</tr> 
+}
+</tbody>
+        
+    </table>
+    </div>
+</body>
+</html>

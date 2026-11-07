@@ -1,0 +1,5 @@
+USE AttendenceDataBase
+GO
+ALTER TABLE Student
+ADD CONSTRAINT UQ_Student_CNIC UNIQUE (CNIC);
+

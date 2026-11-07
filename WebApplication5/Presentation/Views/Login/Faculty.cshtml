@@ -1,0 +1,47 @@
+@{
+    Layout=null;
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login Page</title>
+     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Latest compiled JavaScript -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"></script>
+    <link rel="stylesheet" href="~/css/login.css" />
+</head>
+<body>
+    <form asp-controller="Login" asp-action="Faculty" method="post"> 
+        
+        <div class="navbar bg-primary text-white justify-content-center">
+        <h3>University Mangement System</h3>
+        </div>
+        @* <br/><br/><br/> *@
+        <div class="flex" >
+        <div class="box bg-light justify-content-center" >
+        <h3>Faculty Login Page</h3>
+        <br />
+        <div class="input-group rounded-pill" >
+            <span class="input-group-text" bg-light>👤</span>
+            <input type="text" id="username" name="username" class="form-control" placeholder="username" />
+        </div>
+        <br />
+        <div class="input-group rounded-pill" >
+            <span class="input-group-text" bg-light>🛅</span>
+            <input type="password" id="password" name="password" class="form-control" placeholder="password" />
+            </div>
+            <br />
+        <button class="btn btn-primary"type="submit">Login</button>
+         <br /><br/>
+        @if(ViewBag!=null){
+        <p style="color:red">@ViewBag.Message</p>
+    }
+    </div>
+        </div>
+    </form>
+    
+</body>
+</html>

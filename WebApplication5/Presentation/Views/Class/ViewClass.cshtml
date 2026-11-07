@@ -1,0 +1,39 @@
+@using DAL.Models
+@using Microsoft.AspNetCore.Components.Forms
+@{
+        List<TeacherClass>? list = ViewBag.list;
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="~/css/display.css"/>
+</head>
+<body>
+    <h3 class="p-5">Class Data</h3>
+    <div class="p-5">
+    <table class="table table-bordered table-hover">
+        <thead class="table-dark text-white">
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>TeacherID</th>
+        </tr>
+        </thead>
+        <tbody>
+        @foreach(TeacherClass s in list){
+<tr>
+    <td>@s.Id</td>
+    <td>@s.Name</td>
+    <td>@s.TeacherId</td>
+</tr> 
+
+}
+</tbody>
+        
+    </table>
+    </div>
+</body>
+</html>
